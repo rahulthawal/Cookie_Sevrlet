@@ -1,1 +1,3 @@
-# Cookie_Sevrlet
+# Cookie_Servlet
+
+Example of Cookie using java servlet.
